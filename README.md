@@ -1,3 +1,4 @@
+
 Para poder compilar el programa se deben instalar las siguientes librerias
 Open CV:
 	sudo apt-get install libopencv-dev
