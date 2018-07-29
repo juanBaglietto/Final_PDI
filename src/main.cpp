@@ -21,7 +21,7 @@ Mat imag_reducida_hsv,imag_reducida,imag_reducida_bin,mat_rot,imag_rotada,aux,im
 int main( int, char** argv )
 {
     char* directorio_imagen = argv[1];
-    int low_H=0,high_H=100;
+    int low_H=20,high_H=100;
     int low_S=0,high_S=165;
     int low_V=0,high_V=170;
     int px=100;
